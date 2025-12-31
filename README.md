@@ -5,7 +5,6 @@
 </p>
 
 <div align="middle">
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat">
 <img src="https://img.shields.io/badge/version-0.0.6-brightgreen.svg?style=flat">
 </div>
 
