@@ -13,12 +13,12 @@
 	"publisher": "Rakhsan",
 	"license": "MIT",
   "bugs": {
-		"url": "https://github.com/blankeos/zen/issues"
+		"url": "https://github.com/Rakhsan/poimandres-updated-dark.git/issues"
 	},
-	"homepage": "https://github.com/blankeos/zen#readme",
+	"homepage": "https://github.com/Rakhsan/poimandres-updated-dark#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/blankeos/zen.git"
+		"url": "git+https://github.com/Rakhsan/poimandres-updated-dark.git"
 	},
   "engines": {
     "vscode": "^1.54.0"
