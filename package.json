@@ -2,7 +2,7 @@
   "name": "poimandres-dark-updated",
   "displayName": "Poimandres Dark Updated",
   "description": "A updated version of the poimandres dark theme with borders and darker colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
 		"poimandres",
 		"react",
@@ -11,6 +11,7 @@
 	],
   "author": "Rakhsan",
 	"publisher": "Rakhsan",
+  "icon": "assets/icon.png",
 	"license": "MIT",
   "bugs": {
 		"url": "https://github.com/Rakhsan/poimandres-updated-dark.git/issues"
