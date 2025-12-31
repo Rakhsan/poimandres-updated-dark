@@ -1,5 +1,5 @@
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/icon.png" width="150"  />
+  <img src="https://github.com/Rakhsan/poimandres-updated-dark/blob/main/assets/icon.png?raw=true" width="150"  />
   <h3 align="middle">Poimandres Dark Updated</h3>
   <p align="middle">A updated version of the poimandres dark theme with borders and darker colors</p>
 </p>
@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/version-0.0.6-brightgreen.svg?style=flat">
 </div>
 
-![stuff](assets/image.png)
+![stuff](assets/demo.png)
