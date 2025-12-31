@@ -1,0 +1,42 @@
+{
+  "name": "poimandres-dark-updated",
+  "displayName": "Poimandres Dark Updated",
+  "description": "A updated version of the poimandres dark theme with borders and darker colors",
+  "version": "0.0.1",
+  "keywords": [
+		"poimandres",
+		"react",
+		"dark",
+		"theme"
+	],
+  "author": "Rakhsan",
+	"publisher": "Rakhsan",
+	"license": "MIT",
+  "bugs": {
+		"url": "https://github.com/blankeos/zen/issues"
+	},
+	"homepage": "https://github.com/blankeos/zen#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/blankeos/zen.git"
+	},
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "galleryBanner": {
+		"color": "#0E131B",
+		"theme": "dark"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Poimandres Dark Updated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Poimandres Dark Updated-color-theme.json"
+      }
+    ]
+  }
+}
