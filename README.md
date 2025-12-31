@@ -5,7 +5,7 @@
 </p>
 
 <div align="middle">
-<img src="https://img.shields.io/badge/version-0.0.1-brightgreen.svg?style=flat">
+<img src="https://img.shields.io/badge/version-0.0.4-brightgreen.svg?style=flat">
 </div>
 
 ![stuff](assets/demo.png)
